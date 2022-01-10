@@ -10,3 +10,7 @@
 + 8-1. 변수의 정의(2022.01.10) [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/Variable.java)
 + 8-2. 변수의 효용(2022.01.10) [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/Letter.java)
 + 8-3. 데이터 타입의 변환 - casting [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/Casting.java)
++ 9-1~3
+  - 9-1. 프로그래밍이란 무엇인가(2022.01.10) [code](https://github.com/kbjung/java_class1/blob/main/Programming/src/Program.java)
+  - 9-2. 프로그램 만들기 - IoT 라이브러리 설치하기(2022.01.10)
+  - 9-3. IoT 프로그램 만들기
