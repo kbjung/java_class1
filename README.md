@@ -7,3 +7,4 @@
 + 6-3 숫자와 연산(2022.01.05) [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/Number.java)
 + 6-4 문자열의 표현(2022.01.05) [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/StringApp.java)
 + 6-5 문자열 다루기(2022.01.05) [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/StringOperation.java)
++ 8-1 변수의 정의(2022.01.10) [code](https://github.com/kbjung/java_class1/blob/main/Data_and_operation/src/Variable.java)
