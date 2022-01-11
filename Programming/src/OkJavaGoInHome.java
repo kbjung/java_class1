@@ -22,7 +22,7 @@ public class OkJavaGoInHome {
 		
 		Lighting floorLamp = new Lighting(id + " / floor Lamp");
 		floorLamp.on();
-
+		
 	}
 
 }
