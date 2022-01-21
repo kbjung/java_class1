@@ -17,3 +17,4 @@
 + 11-1. 입력과 출력(2022.01.14)
 + 11-2. 입력과 출력 - arguments & parameter(2022.01.14) [code](https://github.com/kbjung/java_class1/blob/main/Programming/src/OkJavaGoInHomeInput.java)
 + 12-1. 직접 컴파일-실행 - 소개(2022.01.14)
++ 12-2. 직접 컴파일-실행 - 실행환경 살펴보기(2022.01.21)
